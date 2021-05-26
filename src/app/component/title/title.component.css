@@ -1,0 +1,29 @@
+i {
+    margin-left: 5px;
+}
+
+.background {
+    height: 10rem;
+    background-color: #a5a58d;
+}
+
+.container {
+    height: 100%;
+}
+
+.align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.form-control {
+    width: 50rem;
+    height: 4rem;
+    margin-right: 10px;
+}
+
+.search:hover {
+    background-color: rgb(82, 139, 82);
+}

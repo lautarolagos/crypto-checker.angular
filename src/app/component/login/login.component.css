@@ -1,0 +1,29 @@
+button {
+    margin: 5px;
+    font-size: 1.25rem;
+    color: #fff;
+}
+
+h1 {
+    color: #fff;
+    font-weight: 200;
+}
+
+button:hover {
+    background-color: rgb(82, 139, 82);
+}
+
+span {
+    font-weight: Bold;
+    font-size: 3rem;
+}
+
+.color {
+    background-color: #88880c;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
